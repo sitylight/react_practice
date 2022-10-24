@@ -1,0 +1,18 @@
+.hot-container {
+  padding: '10px 0px';
+}
+
+.hot-container > ul {
+  list-style-type: none;
+  background-color: white;
+  width: auto;
+  display: flex;
+}
+
+.hot-container ul > li {
+  text-decoration: none;
+}
+
+.hot-container ul li > a {
+  color: skyblue
+}

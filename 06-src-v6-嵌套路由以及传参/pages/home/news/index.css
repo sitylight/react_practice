@@ -1,0 +1,13 @@
+.news-list {
+  list-style-type: none;
+  background-color: white;
+  width: auto;
+}
+
+.news-list > li {
+  text-decoration: none;
+}
+
+.news-list li > a {
+  color: skyblue
+}

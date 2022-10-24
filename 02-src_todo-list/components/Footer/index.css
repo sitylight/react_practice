@@ -1,0 +1,9 @@
+.footer-container {
+  position: relative;
+  top: 168px;
+}
+
+.footer-del-btn {
+  float: right;
+  margin-right: 5px;
+}
